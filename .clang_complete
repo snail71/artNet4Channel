@@ -35,9 +35,10 @@
 -IC:\Users\snail\.platformio\packages\framework-arduinoespressif32\tools\sdk\include\lwip
 -IC:\Users\snail\.platformio\packages\framework-arduinoespressif32\cores\esp32
 -IC:\Users\snail\.platformio\packages\framework-arduinoespressif32\variants\doitESP32devkitV1
--IC:\Users\snail\Documents\PlatformIO\Projects\171114-155850-esp32doit-devkit-v1\src
+-IC:\Users\snail\Documents\projects\other\artNet4Channel\src
 -IC:\Users\snail\.platformio\packages\framework-arduinoespressif32\libraries\WiFi\src
--IC:\Users\snail\Documents\PlatformIO\Projects\171114-155850-esp32doit-devkit-v1\lib\artnet
+-IC:\Users\snail\Documents\projects\other\artNet4Channel\lib\artnet
+-IC:\Users\snail\Documents\projects\other\artNet4Channel\lib\artnet
 -IC:\Users\snail\.platformio\packages\framework-arduinoespressif32\libraries\ArduinoOTA\src
 -IC:\Users\snail\.platformio\packages\framework-arduinoespressif32\libraries\EEPROM
 -IC:\Users\snail\.platformio\packages\framework-arduinoespressif32\libraries\ESP32\src
